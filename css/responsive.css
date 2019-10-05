@@ -1,0 +1,31 @@
+@media screen and (max-width: 480px){
+    .logo{
+        margin-left:10px;
+        font-size:15px;
+        padding-top:10px;
+    }
+    .hy_logo{
+        height:45px;
+        width:42.5px;
+        
+    }
+    .menus{
+        top:0px;
+        width:100%;
+        float:left;
+        margin-left:0px;
+    }
+    .menu{
+        display: inline-block;
+        margin-bottom:0px;
+        margin-left:20px;
+        font-size:13px;
+        opacity:1.0;
+    }
+    .pages{
+        width:100%;
+    }
+    .top_pic{
+        display:none;
+    }
+}
